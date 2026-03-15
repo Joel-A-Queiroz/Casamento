@@ -1,0 +1,14 @@
+.hero h2 {
+  font-weight: 40;
+  line-height: 34px;
+}
+
+.img-hero {
+  height: 500px;
+  width: 100%;
+}
+
+.hero .img-hero {
+  background: url(../IMG/hero-img-casa.jpeg) no-repeat;
+  background-size: cover;
+}
